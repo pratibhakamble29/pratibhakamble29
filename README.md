@@ -84,7 +84,7 @@ Currently exploring AI-102 (Azure AI Engineer) and advancing my Python & Power B
 <h3 align="left">🌱 Currently Learning</h3>
 
 <p>
-AI-102: Azure AI Engineer (Microsoft Learn), Advanced Python for Data Analysis, Power BI Optimization
+Preparing for AI-102: Azure AI Engineer by completing Microsoft Learn modules and building AI-based projects
 </p>
 
 ###
