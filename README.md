@@ -17,36 +17,21 @@ Currently exploring AI-102 (Azure AI Engineer) and advancing my Python & Power B
 <h3 align="left">💻 Skills</h3>
 
 <div align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
   <img width="12" />
-  
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
   <img width="12" />
-  
-  <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/>
   <img width="12" />
-
-  <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"/>
   <img width="12" />
-
-  <!-- Scikit Learn -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35" alt="sklearn logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35"/>
   <img width="12" />
-
-  <!-- Azure -->
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="35" alt="azure logo"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="35"/>
   <img width="12" />
-
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
   <img width="12" />
-
-  <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/>
 </div>
 
 ###
@@ -54,11 +39,34 @@ Currently exploring AI-102 (Azure AI Engineer) and advancing my Python & Power B
 <h3 align="left">📊 Projects</h3>
 
 <ul>
-<li><b>Meta Ads Performance Dashboard (Power BI)</b><br/>
-Analyzed 335K+ impressions and 39K+ clicks. Built KPIs like CTR, Conversion Rate, Engagement Rate and created interactive dashboards.</li>
+  <li>
+    <b>Meta Ads Performance Dashboard (Power BI)</b>
+    <ul>
+      <li>Analyzed 335K+ impressions and 39K+ clicks</li>
+      <li>Built KPIs like CTR, Conversion Rate, Engagement Rate</li>
+      <li>Created interactive dashboards with filters and insights</li>
+    </ul>
+  </li>
+  <br>
 
-<li><b>Relational Database Analysis (SQL)</b><br/>
-Designed normalized database schema and performed complex SQL queries to generate business insights.</li>
+  <li>
+    <b>Relational Database Analysis (SQL)</b>
+    <ul>
+      <li>Designed normalized database schema</li>
+      <li>Performed complex joins, subqueries, and aggregations</li>
+      <li>Generated business insights from structured data</li>
+    </ul>
+  </li>
+  <br>
+
+  <li>
+    <b>📊 Data Cleaning & Exploratory Data Analysis (EDA) Pipeline | Python</b>
+    <ul>
+      <li>Cleaned and processed raw data (missing values, duplicates, outliers)</li>
+      <li>Created visualizations to analyze customer behavior</li>
+      <li>Generated insights using Python (Pandas, Seaborn, Matplotlib)</li>
+    </ul>
+  </li>
 </ul>
 
 ###
