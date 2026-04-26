@@ -59,6 +59,16 @@ Currently exploring AI-102 (Azure AI Engineer) and advancing my Python & Power B
     </ul>
   </li>
   <br>
+  
+  <li>
+    <b>Blinkit Sales Dashboard (Excel)</b>
+    <ul>
+      <li>Analyzed $1.2M+ sales data using pivot tables & charts</li>
+      <li>Identified top categories, outlet performance & customer preferences</li>
+      <li>Delivered business insights for decision-making</li>
+    </ul>
+  </li>
+  <br>
 
   <li>
     <b>📊 Data Cleaning & Exploratory Data Analysis (EDA) Pipeline | Python</b>
