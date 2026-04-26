@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! I'm Pratibha Kamble,
-  📊 Data Analyst | Microsoft Certified (PL-300 – 890 Score)</h2>
+<h2 align="left">Hi 👋! I'm Pratibha Kamble</h2>
+  📊 Data Analyst | Microsoft Certified (PL-300 – 890 Score)
 
 ###
 
