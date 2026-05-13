@@ -41,6 +41,21 @@ Currently exploring AI-102 (Azure AI Engineer) and advancing my Python & Power B
 
 <ul>
   <li>
+    <b>📊 Financial Fraud Detection Dashboard (Python | SQL | Power BI | ML)</b>
+    <ul>
+      <li>Analyzed 100K+ financial transactions to identify fraudulent activities</li>
+      <li>Performed data cleaning, EDA, feature engineering, and SQL analysis</li>
+      <li>Built fraud detection model with 97% accuracy and ROC-AUC of 0.96</li>
+      <li>Created dashboard visuals and key business insights using Power BI &
+        Python</li>
+      <li>Identified fraud patterns based on transaction timing, customer behavior, and
+        product risk</li>
+       </ul>
+  </li>
+  <br>
+  
+<ul>
+  <li>
     <b>Meta Ads Performance Dashboard (Power BI)</b>
     <ul>
       <li>Analyzed 335K+ impressions and 39K+ clicks</li>
