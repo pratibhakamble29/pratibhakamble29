@@ -39,6 +39,7 @@ Currently exploring AI-102 (Azure AI Engineer) and advancing my Python & Power B
 
 <h3 align="left">📊 Projects</h3>
 
+<br>
 <ul>
   <li>
     <b>📊 Financial Fraud Detection Dashboard (Python | SQL | Power BI | ML)</b>
