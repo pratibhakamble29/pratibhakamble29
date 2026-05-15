@@ -111,7 +111,7 @@ Currently exploring AI-102 (Azure AI Engineer) and advancing my Python & Power B
 <h3 align="left">🌱 Currently Learning</h3>
 
 <p>
-Preparing for AI-102: Azure AI Engineer by completing Microsoft Learn modules and building AI-based projects
+Currently preparing for Microsoft Certified: Azure AI Engineer Associate with hands-on Azure AI, Azure OpenAI, and AI-powered project development.
 </p>
 
 ###
