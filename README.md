@@ -112,10 +112,22 @@ Currently exploring AI-102 (Azure AI Engineer) and advancing my Python & Power B
 
 ###
 
+<ul>
+  <li>
+    <b>Tata Data Visualisation: Empowering Business with Effective Insights (Forage)</b>
+    <ul>
+      <li>Completed practical tasks in data visualization, business communication, and insight generation.</li>
+      <li>Applied data storytelling and visual analytics techniques to communicate actionable business insights and support decision-making.</li>
+    </ul>
+  </li>
+</ul>
+
+###
 <h3 align="left">🏆 Certifications</h3>
 
 <ul>
   <li>Microsoft PL-300: Power BI Data Analyst Associate (Score: 890/1000)</li>
+  <li>Tata Data Visualisation: Empowering Business with Effective Insights – Forage</li>
   <li>Deloitte Data Analytics Job Simulation – Forage</li>
   <li>Certified in Data Analytics with Python – AICPE</li>
   <li>Data Analysis with Python – freeCodeCamp</li>
