@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I'm Pratibha Kamble</h2>
-  📊 Data Analyst | Microsoft Certified
+  📊 Data Analyst | Azure AI Engineer | Microsoft Certified
 
 ###
 
@@ -8,9 +8,7 @@
 ###
 
 <p align="left">
-Microsoft Certified Power BI Data Analyst (PL-300 - 890 Score) with strong skills in Power BI, SQL, Python, and Excel.  
-I specialize in building interactive dashboards, performing data analysis, and extracting actionable insights from data.  
-Currently exploring AI-102 (Azure AI Engineer) and advancing my Python & Power BI skills 🚀
+Microsoft Certified Azure AI Engineer Associate (AI-102) and Microsoft Certified Power BI Data Analyst (PL-300 - Score: 890) with expertise in Azure AI, Power BI, SQL, Python, and Excel. Skilled in building AI-powered solutions, interactive dashboards, data analysis, and transforming raw data into actionable business insights. Passionate about Generative AI, Azure OpenAI, Data Analytics, and solving real-world business problems through technology. 🚀
 </p>
 
 ###
@@ -126,6 +124,7 @@ Currently exploring AI-102 (Azure AI Engineer) and advancing my Python & Power B
 <h3 align="left">🏆 Certifications</h3>
 
 <ul>
+  <li>Microsoft Certified: Azure AI Engineer Associate (AI-102)</li>
   <li>Microsoft PL-300: Power BI Data Analyst Associate (Score: 890/1000)</li>
   <li>Tata Data Visualisation: Empowering Business with Effective Insights – Forage</li>
   <li>Deloitte Data Analytics Job Simulation – Forage</li>
@@ -138,7 +137,11 @@ Currently exploring AI-102 (Azure AI Engineer) and advancing my Python & Power B
 <h3 align="left">🌱 Currently Learning</h3>
 
 <p>
-Currently preparing for Microsoft Certified: Azure AI Engineer Associate with hands-on Azure AI, Azure OpenAI, and AI-powered project development.
+<h3 align="left">🌱 Currently Learning</h3>
+
+<p>
+Microsoft Certified Azure AI Engineer Associate (AI-102) continuously exploring Generative AI, AI Agents, Azure OpenAI, RAG Applications, and advanced Data Analytics through hands-on projects.
+</p>
 </p>
 
 ###
