@@ -133,9 +133,6 @@ Microsoft Certified Azure AI Engineer Associate (AI-102) and Microsoft Certified
 </ul>
 
 
-
-<h3 align="left">🌱 Currently Learning</h3>
-
 <p>
 <h3 align="left">🌱 Currently Learning</h3>
 
